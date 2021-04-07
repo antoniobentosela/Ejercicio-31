@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\obj\Debug\Ejercicio 19.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+C:\Users\Usuario\Desktop\Facu\Guia de Ejercicios\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
